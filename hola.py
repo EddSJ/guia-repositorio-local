@@ -9,3 +9,6 @@ def buenosDias():
 
 def buenosDias():
     print('buenos dias')
+
+def adios():
+    print('adios')
